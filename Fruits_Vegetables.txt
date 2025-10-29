@@ -1,0 +1,11 @@
+Fruits:
+-Apples
+-Oranges
+-Bananas
+
+Vegetables:
+-Carrots
+-Pees
+-Broccolis
+
+Initial commit: Add Fruits_Vegetables.txt with two fruits and vegetables
